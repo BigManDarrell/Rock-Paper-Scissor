@@ -1,0 +1,36 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+button {
+  width: 120px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.container {
+  width: fit-content;
+  background-color: #d3d3d3;
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 1rem;
+}
+
+#player {
+  color: blue;
+}
+
+#comp {
+  color: red;
+}
